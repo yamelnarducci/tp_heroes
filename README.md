@@ -1,7 +1,6 @@
 # Guía | HEROES
-Integrantes 
-Yamel Narducci
-Martín Romero
-Luis Gregorio Rondon
-Kevin Espinola
-Yamel Narducci 38 anios Lomas de Zamora
+## Integrantes
+- Martín Romero
+- Luis Gregorio Rondon 33 años Capital federal
+- Kevin Espinola(21), Buenos Aires.
+- Yamel Narducci 38 anios Lomas de Zamora
